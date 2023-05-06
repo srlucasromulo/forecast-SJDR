@@ -1,0 +1,13 @@
+name;meaning
+chuva;PRECIPITACAO TOTAL - HORARIO(mm)
+pressao;PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO - HORARIA(mB)
+radiacao;RADIACAO GLOBAL(Kj/m²)
+temperatura;TEMPERATURA DO AR - BULBO SECO - HORARIA(°C)
+temperatura_orvalho;TEMPERATURA DO PONTO DE ORVALHO(°C)
+temp_max_hr_anterior;TEMPERATURA MAXIMA NA HORA ANT. (AUT)(°C)
+temp_min_hr_anterior;TEMPERATURA MINIMA NA HORA ANT. (AUT)(°C)
+umidade;UMIDADE RELATIVA DO AR - HORARIA(%)
+umidade_max_hr_anterior;UMIDADE REL. MAX. NA HORA ANT. (AUT)(%)
+umidade_min_hr_anterior;UMIDADE REL. MIN. NA HORA ANT. (AUT)(%)
+vento_direcao;VENTO - DIRECAO HORARIA (gr)(° (gr))
+vento_velocidade;VENTO - VELOCIDADE HORARIA(m/s)
